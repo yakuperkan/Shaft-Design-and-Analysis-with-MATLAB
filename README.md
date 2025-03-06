@@ -1,12 +1,12 @@
 # Shaft-Design-and-Analysis-with-MATLAB
-# Shaft Design Project / Mil Tasarım Projesi
+# Shaft Design Project 
 
 This project involves the design and analysis of a shaft using MATLAB. The script (`shaft_design_revize.m`) performs calculations related to shaft diameters, torque distribution, shear forces, and safety factors according to mechanical design principles.
 
 
 ---
 
-## 📄 **Description / Açıklama:**
+## 📄 **Description :**
 The shaft design project is developed as part of an engineering assignment by Yakup Erkan Kaymaz. The MATLAB script allows for:
 
 - User input for shaft diameters
@@ -17,7 +17,7 @@ The shaft design project is developed as part of an engineering assignment by Ya
 
 - Safety factor analysis based on Goodman criteria
 
-### 🚀 **Technologies Used / Kullanılan Teknolojiler:**
+### 🚀 **Technologies Used :**
 - **MATLAB** for numerical calculations and visualizations
 
 - **Mechanical Design Principles** for safety and strength analysis
@@ -25,7 +25,7 @@ The shaft design project is developed as part of an engineering assignment by Ya
 ### 📂 **File / Dosya:**
 - `shaft_design_revize.m`: The main script for shaft design calculations and plotting.
 
-### ⚙️ **Installation and Usage / Kurulum ve Kullanım:**
+### ⚙️ **Installation and Usage :**
 1. Open MATLAB and navigate to the directory containing `shaft_design_revize.m`.
 
 2. Run the script using the MATLAB command window:
@@ -36,7 +36,7 @@ shaft_design_revize
 
 ---
 
-## 📈 **Features / Özellikler:**
+## 📈 **Features:**
 - **Dynamic Input :** Allows users to enter shaft dimensions interactively.
 
 
@@ -45,12 +45,12 @@ shaft_design_revize
 - **Safety Analysis :** Computes safety factors and checks design limits based on material properties (AISI 1020 CD Alloy).
 
 
-### 🛠️ **Additional Considerations / Ekstra Dikkat Edilecekler:**
+### 🛠️ **Additional Considerations:**
 - Ensure the MATLAB path is set correctly to avoid file not found errors.
 - Recommended MATLAB version: R2020a or newer.
 ---
 
-## 📧 **Contact / İletişim:**
+## 📧 **Contact :**
 - **Developer :** Yakup Erkan Kaymaz
 - **Email :** kaymazyakuperkan@gmail.com
 
